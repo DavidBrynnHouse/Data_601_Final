@@ -6,7 +6,7 @@
 
 * **Code** - Folder for Jupyter notebooks.
     * [Spotify Jit Classifier.ipynb](https://github.com/DavidBrynnHouse/Data_601_Final/blob/master/Code/Spotify%20Hit%20Classifier.ipynb) - Jupyter notebook used to clean and organize data.
-* **Data** - Dataset that was analysed in this project.
+* **Data** - Dataset that was analyzed in this project.
     * [dataset-of-00s.csv](https://github.com/DavidBrynnHouse/Data_601_Final/blob/master/Data/dataset-of-00s.csv)
     * [dataset-of-10s.csv](https://github.com/DavidBrynnHouse/Data_601_Final/blob/master/Data/dataset-of-10s.csv)
     * [dataset-of-60s.csv](https://github.com/DavidBrynnHouse/Data_601_Final/blob/master/Data/dataset-of-60s.csv)
@@ -21,14 +21,14 @@
 
 ---
 
-My goal for this project is to train an ML algorithm which can accuratly predict whether a song is a hit or not. 
+My goal for this project is to train an ML algorithm which can accurately predict whether a song is a hit or not. 
 
 
 ## Overview
 
 ---
 
-For this project I used data from the spotify API and used it to train an ML algoritm that would predict, based on attributes of a song, if it would be a hit or not. Using a decision tree I achived an accuracy of 82 +/- 2% accuracy. 
+Artists who post their music to Spotify hope that their song will reach millions of users. For this project, I used data from the Spotify API and used it to train an ML algorithm that would predict, based on attributes of a song, if it would be a hit or not. Using a decision tree I achieved an accuracy of 82 +/- 2% accuracy. 
 
 
 
